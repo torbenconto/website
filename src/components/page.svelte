@@ -21,6 +21,9 @@
                 I'm passionate about writing clean, self-documenting code that is scalable, lightweight, and efficient.
             </p>
             <div class="py-4">&copy; 2025 Torben Conto | <a class="text-blue-400 hover:underline hover:text-blue-500" href="mailto:torbenmconto@gmail.com">torbenmconto@gmail.com</a></div>
+            <div class="mt-4">
+                <a class="text-sm text-blue-400 hover:underline hover:text-blue-500" href="/index">More Links</a>
+            </div>
         </div>
     </div>
 </div>
