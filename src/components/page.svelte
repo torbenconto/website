@@ -1,7 +1,3 @@
-<script>
-    import Footer from "../components/footer.svelte";
-</script>
-
 <div class="flex flex-col items-center justify-center min-h-screen">
     <div class="flex flex-col justify-center items-center space-y-4 max-w-prose text-center">
         <div class="text-left">
