@@ -27,9 +27,14 @@
 		<h1 class="text-2xl font-semibold mb-4">Index</h1>
 		<ul class="index-list">
 			<li class="index-item">
+				<a class="index-link" href="/">/</a>
+			</li>
+			<li class="index-item">
 				<a class="index-link" href="/projects">projects/</a>
 			</li>
-			<!-- Add more links here -->
+			<li class="index-item">
+				<a class="index-link" href="/files">files/</a>
+			</li>
 		</ul>
 	</div>
 </div>
