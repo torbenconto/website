@@ -5,8 +5,8 @@
             <h2 class="text-2xl text-gray-700">Software Developer specializing in systems programming, networking, and full-stack development.</h2>
             
             <div class="mt-8">
-                <a class="text-3xl text-blue-400 font-bold underline hover:text-blue-500" href="/projects">
-                    My Highlighted Projects
+                <a class="text-3xl text-blue-400 font-bold underline hover:text-blue-500" href="https://github.com/torbenconto">
+                    My Projects
                 </a>
             </div>
 
